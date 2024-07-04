@@ -1,0 +1,9 @@
+https://www.datascience-pm.com/crisp-dm-2/
+
+
+Lee el Capítulo 1 WHAT IS DATA SCIENCE? [páginas 1 a la 24] del libro de texto: Kelleher, J. D., y Tierney, B. (2018). Data Science. The MIT Press
+
+Lee el Capítulo 2 WHAT ARE DATA, AND WHAT IS A DATA SET? [páginas 56 a la 67] del libro de texto: Kelleher, J. D., y Tierney, B. (2018). Data Science. The MIT Press.
+
+
+Lee la sección Descriptive, Predictive, and Prescriptive Questions, del Capítulo 2 (Intro To Analytical Thinking) y la sección Learning to Ask Business Questions: Examples from Common Use Cases, del Capítulo 3 (Learning To Ask Good Business Questions), del libro de texto: Vaughan, D. (2020). Analytical Skills for Al and Data Science.

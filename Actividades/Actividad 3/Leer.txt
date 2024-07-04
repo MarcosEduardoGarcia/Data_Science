@@ -1,0 +1,15 @@
+Lee las secciones What is a database? y Types of databases del Capítulo 4 (Databases) del libro de consulta: Jafari, R. (2022). Hands-On Data Preprocessing in Python. Packt Publishing
+
+IBM Technology (2022). Relational vs. Non-Relational Database [video]. YouTube. https://www.youtube.com/watch?v=E9AgJnsEvG4
+
+
+Amazon AWS (2022). Data Warehouse Concepts. Amazon. https://aws.amazon.com/data-warehouse/
+
+
+Oracle (2022). What is a Data Warehouse? https://www.oracle.com/database/what-is-a-data-warehouse/
+
+
+Lee la sección 6.4 Interacting with Databases del Capítulo Data Loading, Storage, and File Formats del libro de texto:McKinney, W. (2022). Python for Data Analysis (3rd ed.). 
+
+
+Lee el Capítulo 19 Combining Datasets: Merge and Join del libro de texto: VanderPlas, J. (2022). Python Data Science Handbook (2nd ed.)

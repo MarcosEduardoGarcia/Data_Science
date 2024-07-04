@@ -1,0 +1,3 @@
+Lee la sección Overview of Pandas del Capítulo 1 (Review of the Core Modules of NumPy and Pandas), del libro de consulta: Jafari, R. (2022). Hands-On Data Preprocessing in Python.
+
+Lee la sección 6.1 Reading and Writing Data in Text Format, del Capítulo Data Loading, Storage, and File Formats, del libro de texto: McKinney, W. (2022). Python for Data Analysis (3rd ed.). O´Reilly Media

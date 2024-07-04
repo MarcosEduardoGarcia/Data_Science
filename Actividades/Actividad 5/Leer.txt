@@ -1,0 +1,7 @@
+Lee la sección Missing values del capítulo 11 (Data Cleaning Level III), del libro de consulta: Jafari, R. (2022). Hands-On Data Preprocessing in Python.
+
+
+Lee la sección 7.1 Handling Missing Data, del capítulo Data Cleaning and Preparation, del libro de texto: McKinney, W. (2022). Python for Data Analysis (3rd ed.).
+
+
+Lee la sección Outliers (sólo Univariate outlier detection) del capítulo 11 (Data Cleaning Level III), del libro de consulta: Jafari, R. (2022). Hands-On Data Preprocessing in Python.

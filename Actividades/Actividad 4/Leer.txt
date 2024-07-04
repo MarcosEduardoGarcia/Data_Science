@@ -1,0 +1,12 @@
+Lee las secciones indicadas:
+
+The significance of EDA y Making sense of data del capítulo Exploratory Data Analysis Fundamentals. Measures of central tendency  y Measures of dispersion, del capítulo Descriptive Statistics.
+
+Introducing correlation, Understanding bivariate analysis,Understanding multivariate analysis, Discussing multivariate analysis using the Titanic dataset del capítulo Correlation.
+
+Del libro de consulta: Kumar Mukhiya, S., y Ahmed, U. (2020). Hands-On Exploratory Data Analysis with Python. 
+
+
+
+
+Lee la sección 9.1 A brief matplotlib API Primer y 9.2 Plotting with pandas and seaborn, del capítulo Plotting and Visualization, del libro de texto: McKinney, W. (2022). Python for Data Analysis (3rd ed.). 
